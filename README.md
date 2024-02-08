@@ -1,2 +1,2 @@
-# P1-Statistika-Dasar
-Statistika dasar Matematika
+# P1
+Statistika dasar matematika
